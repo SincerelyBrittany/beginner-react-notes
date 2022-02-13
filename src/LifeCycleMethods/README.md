@@ -1,5 +1,5 @@
 Understanding React LifeCyle Methods
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/SincerelyBrittany/beginner-react-notes/blob/main/public/reactLifeCyleImg.png?raw=true)
 
-![image Source](https://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/)
+[Image Source](https://projects.wojtekmaj.pl/react-lifecycle-methods-diagram)
